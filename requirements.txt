@@ -1,0 +1,7 @@
+customtkinter
+Pillow
+pandas
+openpyxl
+pdf2docx
+docx2pdf
+pyinstaller
